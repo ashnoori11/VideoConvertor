@@ -17,8 +17,8 @@
 
 ### Install ffmpeg first
 
-[ffmpeg][ffmpegLink]
-[how to install FFmpeg on Windows][installguide]
+- [ffmpeg][ffmpegLink]
+- [how to install FFmpeg on Windows][installguide]
 
 [ffmpegLink]:https://www.gyan.dev/ffmpeg/builds
 [installguide]:https://phoenixnap.com/kb/ffmpeg-windows
